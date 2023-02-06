@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Valeria-Stetsiuk.github.io/Basketball/static/css/main.7acaea2f.css",
-    "main.js": "/Valeria-Stetsiuk.github.io/Basketball/static/js/main.0cb9856a.js",
-    "index.html": "/Valeria-Stetsiuk.github.io/Basketball/index.html",
-    "main.7acaea2f.css.map": "/Valeria-Stetsiuk.github.io/Basketball/static/css/main.7acaea2f.css.map",
-    "main.0cb9856a.js.map": "/Valeria-Stetsiuk.github.io/Basketball/static/js/main.0cb9856a.js.map"
+    "main.css": "/Basketball/static/css/main.7acaea2f.css",
+    "main.js": "/Basketball/static/js/main.0cb9856a.js",
+    "index.html": "/Basketball/index.html",
+    "main.7acaea2f.css.map": "/Basketball/static/css/main.7acaea2f.css.map",
+    "main.0cb9856a.js.map": "/Basketball/static/js/main.0cb9856a.js.map"
   },
   "entrypoints": [
     "static/css/main.7acaea2f.css",
